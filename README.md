@@ -1,5 +1,5 @@
-## checkers-java-swingui-distributed
-# Client server checkers game written in Java, using Swing for UI elements
+# checkers-java-swingui-distributed
+## Client server checkers game written in Java, using Swing for UI elements
 
 In order to run the application, it is recommended to use iTerm, allowing the use of multiple terminal tabs –
 
